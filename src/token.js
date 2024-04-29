@@ -1,6 +1,6 @@
 window.onload = () => {
   YaSendSuggestToken(
-   'https://example.com', {
+   'oauth-master-class-one-indol.vercel.app', {
       flag: true
      }
   )
